@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.fusesource.scalate_scalate-test_2.9_1.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.fusesource.scalate/scalate-test_2.9/jars/scalate-test_2.9-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.fusesource.scalate/scalate-test_2.9/docs/scalate-test_2.9-1.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.fusesource.scalate/scalate-test_2.9/srcs/scalate-test_2.9-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

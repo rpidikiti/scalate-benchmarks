@@ -1,0 +1,55 @@
+[0m[[0minfo[0m] [0mRunning com.pidikiti.scalate.ScalatePerfTest 1 1 10[0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/dev/scalate-benchmarks/target/scala-2.9.2/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.sbt/boot/scala-2.9.2/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.fusesource.scalate/scalate-wikitext_2.9/bundles/scalate-wikitext_2.9-1.6.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.fusesource.scalate/scalate-core_2.9/bundles/scalate-core_2.9-1.6.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.fusesource.scalate/scalate-util_2.9/bundles/scalate-util_2.9-1.6.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.6.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.sbt/boot/scala-2.9.2/lib/scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.fusesource.wikitext/confluence-core/bundles/confluence-core-1.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.fusesource.wikitext/wikitext-core/bundles/wikitext-core-1.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.fusesource.wikitext/textile-core/bundles/textile-core-1.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.fusesource.scalate/scalate-page_2.9/bundles/scalate-page_2.9-1.6.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/rhino/js/jars/js-1.7R2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.yaml/snakeyaml/jars/snakeyaml-1.7.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.fusesource.scalamd/scalamd_2.9/bundles/scalamd_2.9-1.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.fusesource.scalate/scalate-test_2.9/jars/scalate-test_2.9-1.6.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.scalatest/scalatest_2.9.1/jars/scalatest_2.9.1-1.6.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/junit/junit/jars/junit-4.8.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.seleniumhq.selenium/selenium-htmlunit-driver/jars/selenium-htmlunit-driver-2.0a5.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.seleniumhq.selenium/selenium-common/jars/selenium-common-2.0a5.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/net.sourceforge.htmlunit/htmlunit/jars/htmlunit-2.7.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/xalan/xalan/jars/xalan-2.7.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/xalan/serializer/jars/serializer-2.7.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/xml-apis/xml-apis/jars/xml-apis-1.3.04.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/commons-collections/commons-collections/jars/commons-collections-3.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/commons-lang/commons-lang/jars/commons-lang-2.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/commons-httpclient/commons-httpclient/jars/commons-httpclient-3.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/net.sourceforge.htmlunit/htmlunit-core-js/jars/htmlunit-core-js-2.7.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.9.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/net.sourceforge.nekohtml/nekohtml/jars/nekohtml-1.9.14.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/net.sourceforge.cssparser/cssparser/jars/cssparser-0.9.5.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.w3c.css/sac/jars/sac-1.3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.eclipse.jetty/jetty-server/jars/jetty-server-7.2.1.v20101111.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.eclipse.jetty/jetty-continuation/jars/jetty-continuation-7.2.1.v20101111.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.eclipse.jetty/jetty-http/jars/jetty-http-7.2.1.v20101111.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.eclipse.jetty/jetty-io/jars/jetty-io-7.2.1.v20101111.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.eclipse.jetty/jetty-util/jars/jetty-util-7.2.1.v20101111.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.eclipse.jetty/jetty-webapp/jars/jetty-webapp-7.2.1.v20101111.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.eclipse.jetty/jetty-xml/jars/jetty-xml-7.2.1.v20101111.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.eclipse.jetty/jetty-servlet/jars/jetty-servlet-7.2.1.v20101111.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/org.eclipse.jetty/jetty-security/jars/jetty-security-7.2.1.v20101111.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/com.typesafe.akka/akka-testkit/jars/akka-testkit-2.0.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/com.typesafe.akka/akka-actor/jars/akka-actor-2.0.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/com.typesafe/config/bundles/config-0.3.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/scala_2.9.2/sbt_0.12/com.github.mpeltonen/sbt-idea/jars/sbt-idea-1.3.0-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ramesh/.ivy2/cache/commons-io/commons-io/jars/commons-io-2.0.1.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Scala Presentation Compiler [] to exit[0m

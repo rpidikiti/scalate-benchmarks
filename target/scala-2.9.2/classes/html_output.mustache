@@ -1,0 +1,73 @@
+<style type="text/css">
+.articleOutput {
+	width:608px;
+	margin:0 auto;
+}
+.headerImg {
+	max-width:608px;
+	max-height:303px;
+	padding:0;margin:0 auto;
+	overflow:hidden;
+	display:block;
+	margin-top:20px;
+}
+.headerImg img { border:solid 1px #CBCBCB; }
+.attributions {
+	margin-top:72px;
+}
+.attributions .favicon {
+	margin-right: 9px;
+	display: block;
+	float: left;
+}
+.attributions .source, .attributions .date {
+	font-size: 14px;
+	font-famiily: "Gotham Narrow Medium";
+	color: #ABABAB;
+}
+
+h1 {
+	font-size:48px;
+	font-family: "Gotham Narrow Light";
+	color:#2B2B2B;
+	-webkit-margin-before: 40px;
+	-webkit-margin-after: 30px;
+}
+.dividerAccent {
+	height:6px;
+	width:100%;
+	background-color:#F7ECB9;
+}
+
+.author {
+	margin-top:10px;
+	display:block;
+	font-size: 16px;
+	font-family: "Gotham Narrow Medium";
+	color: #ABABAB;
+}
+article {
+	margin-top:80px;
+	font-size: 18px;
+	font-family: "Meta Serif OT Book";
+	color: #4B4B4B;
+}
+</style>
+{{#doc}}
+<div class="articleOutput">
+	<div class="attributions">
+		<img class="favicon" src="{{publishedAt}}" />
+		<span class="source">{{publishedAt}} | </span>
+		<span class="date">{{publishedAt}}</span>
+	</div>
+	<span class="headerImg"><img src="{{imageUrl}}" /></span>
+	<h1>{{title}}</h1>
+	<% var cleanHTML = jQuery(data.content).find("img[src='"+{{imageUrl}}+"']").remove(); %>
+	<div class="dividerAccent"></div>
+	<span class="author">By {{author}}</span>
+	<article>
+	{{cleanText}}
+	</article>
+</div>
+{{/doc}}
+

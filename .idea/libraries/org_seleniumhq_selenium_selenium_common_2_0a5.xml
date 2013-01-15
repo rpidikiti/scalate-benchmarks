@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.seleniumhq.selenium_selenium-common_2.0a5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/selenium-common/jars/selenium-common-2.0a5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/selenium-common/docs/selenium-common-2.0a5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/selenium-common/srcs/selenium-common-2.0a5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

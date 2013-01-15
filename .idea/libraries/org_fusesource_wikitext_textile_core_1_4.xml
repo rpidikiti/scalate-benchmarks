@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.fusesource.wikitext_textile-core_1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.fusesource.wikitext/textile-core/bundles/textile-core-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.fusesource.wikitext/textile-core/docs/textile-core-1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.fusesource.wikitext/textile-core/srcs/textile-core-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
